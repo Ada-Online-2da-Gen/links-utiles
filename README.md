@@ -227,11 +227,3 @@ Lista de links útiles.
 [Best of JS](https://bestofjs.org/)
 
 Lista de librerías, frameworks y herramientas populares de JS.
-
-### Para agregar
-
-- Conceptos de redes (DNS, IPs, etc)
-- PWA
-- GraphQL
-- MVC, MVVM
-- Performance
