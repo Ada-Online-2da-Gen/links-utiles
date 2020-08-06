@@ -149,19 +149,6 @@ Explicación del algoritmo de reconciliación de React.
 
 Serie de 15 artículos que analizan en profundidad el código base de React.
 
-### High Order Components (HOC)
-
-[Simple explanation of Higher-Order Components (HOC)](https://blog.jakoblind.no/simple-explanation-of-higher-order-components-hoc/)<br/>
-[React Higher Order Components](https://flaviocopes.com/react-higher-order-components/)<br/>
-[What are Higher-Order Components in React?](https://css-tricks.com/what-are-higher-order-components-in-react/)<br/>
-[How to develop your React superpowers with the HOC Pattern](https://www.freecodecamp.org/news/how-to-develop-your-react-superpowers-with-the-hoc-pattern-61293651d59/)<br/>
-[A gentle Introduction to React's Higher Order Components](https://www.robinwieruch.de/gentle-introduction-higher-order-components)<br/>
-[Real world examples of Higher Order Components (HOC) for React](https://medium.com/@onoufriosm/real-world-examples-of-higher-order-components-hoc-for-react-871f0d8b39d8)<br/>
-
-Patrón de React que permite reutilizar lógica en distintos componentes.
-
-### PropTypes
-
 ### Redux
 
 Redux es una librería para el manejo de estado en aplicaciones.
